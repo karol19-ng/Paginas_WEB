@@ -1,0 +1,35 @@
+div{width:300px;height:200px;margin:20px;
+	display:inline-block;
+	border:1px solid #000;
+}
+
+.francia{
+	background-image:linear-gradient(90deg,green 33%, white 33%, white 66.66%, red 66.66%);
+}
+
+.italia{
+	background-image:linear-gradient(90deg, skyblue 33%, white 33%, white 66.66%, skyblue 66.66%);
+}
+
+.mexico{
+	background-image:linear-gradient(green 33%, white 33%, white 66.66%, red 66.66%);
+	color:#fff;
+}
+.boli{
+	background-image:linear-gradient(red 33%, yellow 33%, yellow 66.66%, green 66.66%);
+	color:#fff;
+}
+.salvador{
+	background-image:linear-gradient(blue 33%, white 33%, white 66.66%, blue 66.66%);
+	color:#fff;
+}
+
+.india{
+	background-image:linear-gradient(orange 33%, white 33%, white 66.66%, green 66.66%);
+	color:#fff;
+}
+
+.dinamarca{
+	background-image:linear-gradient(90deg,red 33%, white 33%, white 66.66%, red 66.66%);
+	color:#fff;
+}
