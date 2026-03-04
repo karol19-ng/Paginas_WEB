@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Trabajo Administración de Sitios Web</title>
+
+    <link rel="stylesheet" href="~/css/site.css" />
+
+    @RenderSection("Styles", required: false)
+</head>
+<body>
+
+    <header>
+        <h1>Administración de Sitios Web</h1>
+        <p>Colegio Universitario de Cartago</p>
+    </header>
+
+    <nav>
+        <ul class="menu">
+            <li><a asp-page="/Index">Inicio</a></li>
+
+            <li>
+                <a href="#">Andrey</a>
+                <ul>
+                    <li><a asp-page="/Andrey_Banderas">Banderas</a></li>
+                    <li><a asp-page="/Andrey_Libre">Página Libre</a></li>
+                </ul>
+            </li>
+
+            <li>
+                <a href="#">Karoline</a>
+                <ul>
+                    <li><a asp-page="/Karoline_Pagina1">Página 1</a></li>
+                    <li><a asp-page="/Karoline_Pagina2">Página 2</a></li>
+                </ul>
+            </li>
+
+            <li>
+                <a href="#">Sebastean</a>
+                <ul>
+                    <li><a asp-page="/Sebastean_Pagina1">Página 1</a></li>
+                    <li><a asp-page="/Sebastean_Pagina2">Página 2</a></li>
+                </ul>
+            </li>
+        </ul>
+    </nav>
+
+    <main>
+        @RenderBody()
+    </main>
+
+    <footer>
+        <p>Trabajo realizado por:</p>
+        <p>
+            Karoline Núñez Gonzales |
+            Sebastean Andrade Gonzalez |
+            Andrey Calderon Vega
+        </p>
+        <p>© 2026 - Colegio Universitario de Cartago</p>
+    </footer>
+
+</body>
+</html>

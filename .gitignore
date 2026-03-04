@@ -1,0 +1,53 @@
+## =========================
+## .NET / ASP.NET Core
+## =========================
+
+# Build folders
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / VSCode
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Publish output
+publish/
+*.publishsettings
+
+# NuGet
+*.nupkg
+packages/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Test results
+TestResults/
+
+# Azure
+*.azurePubxml
+
+# Backup files
+*.bak
+*.backup
+
+# Temporary files
+*.tmp
+*.temp
+
+# Node (por si usas frontend luego)
+node_modules/

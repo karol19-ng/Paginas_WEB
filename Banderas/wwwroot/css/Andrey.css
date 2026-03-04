@@ -1,0 +1,41 @@
+﻿.banderas-container {
+    text-align: center;
+}
+
+    .banderas-container div {
+        width: 300px;
+        height: 200px;
+        margin: 20px;
+        display: inline-block;
+        border: 1px solid #000;
+    }
+
+/* COSTA RICA */
+.costarica {
+    background-image: linear-gradient( to bottom, blue 0%, blue 20%, white 20%, white 35%, red 35%, red 65%, white 65%, white 80%, blue 80%, blue 100% );
+}
+
+/* ESPAÑA */
+.espana {
+    background-image: linear-gradient( to bottom, red 25%, yellow 25%, yellow 75%, red 75% );
+}
+
+/* PERÚ */
+.peru {
+    background-image: linear-gradient( to right, red 33.33%, white 33.33%, white 66.66%, red 66.66% );
+}
+
+/* UCRANIA */
+.ucrania {
+    background-image: linear-gradient( to bottom, blue 50%, yellow 50% );
+}
+
+/* NIGERIA */
+.nigeria {
+    background-image: linear-gradient( to right, green 33.33%, white 33.33%, white 66.66%, green 66.66% );
+}
+
+/* PAISES BAJOS */
+.paisesbajos {
+    background-image: linear-gradient( to bottom, red 33.33%, white 33.33%, white 66.66%, blue 66.66% );
+}

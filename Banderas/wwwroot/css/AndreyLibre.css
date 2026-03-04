@@ -1,0 +1,55 @@
+﻿.hero {
+    text-align: center;
+    padding: 60px 20px;
+    background: linear-gradient(135deg, #1e3c72, #2a5298);
+    color: white;
+}
+
+    .hero h1 {
+        margin: 0;
+        font-size: 40px;
+    }
+
+.hero-subtitle {
+    margin-top: 10px;
+    font-size: 18px;
+    opacity: 0.8;
+}
+
+.seccion {
+    padding: 50px 10%;
+}
+
+    .seccion h2 {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+.gris {
+    background-color: #f2f2f2;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    margin: 15px auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    max-width: 600px;
+}
+
+.lista {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+    .lista li {
+        margin: 10px 0;
+    }
+
+.proyectos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
