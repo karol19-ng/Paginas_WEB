@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>solución ejercicio de banderas</title>
+   <link rel="stylesheet" href="estilosbanderaAndrade.css">
+<style>
+/*aquí el css*/
+</style>
+
+</head>
+<body>
+
+	<div class="boli">Bolivia</div>
+	<div class="francia">mexico</div>
+	<div class="italia">guatemala</div>
+	<div class="mexico">iran</div>
+	<div class="india">india</div>
+	<div class="salvador">salvador</div>
+    <div class="dinamarca">dinamarca</div>
+
+</body>
+</html>
