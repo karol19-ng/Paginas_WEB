@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>masquecomida</title>
+    <link rel="stylesheet" href="estiloLibreAndrade.css">
+</head>
+<body>
+
+    <h1>Masquecomida</h1>
+
+    <div>
+        <h2>Hamburguesa</h2>
+        <p>Precio: 1200 colones</p>
+        <h3>Ingredientes:</h3>
+        <ul>
+            <li>Pan</li>
+            <li>Carne</li>
+            <li>Queso</li>
+            <li>Lechuga</li>
+            <li>Tomate</li>
+        </ul>
+    </div>
+
+    <div>
+        <h2>Pizza</h2>
+        <p>Precio: 1500 colones</p>
+         <h3>Ingredientes:</h3>
+        <ul>
+            <li>masa</li>
+            <li>Carne</li>
+            <li>Queso</li>
+            <li>tocino</li>
+            <li>Tomate</li>
+            <li>peporoni</li>
+        </ul>
+    </div>
+      <div>
+        <h2>HOT DOG</h2>
+        <p>Precio: 1150 colones</p>
+        <h3>Ingredientes:</h3>
+        <ul>
+            <li>Pan</li>
+            <li>SALCHICHA</li>
+            <li>Queso</li>
+            <li>Pepinillo</li>
+            <li>salsas</li>
+        </ul>
+    </div>
+      <div>
+        <h2>NACHOS SUPRIME</h2>
+        <p>Precio: 3500 colones</p>
+        <h3>Ingredientes:</h3>
+        <ul>
+            <li>nachos</li>
+            <li>Carne desmechada</li>
+            <li>Queso</li>
+            <li>Lechuga</li>
+            <li>Tomate</li>
+            <li>crema</li>
+            <li>guacamole</li>
+            <li>jalapeños</li>
+        </ul>
+    </div>
+      <div>
+        <h2>GALLOS</h2>
+        <p>Precio: 1200 colones</p>
+        <h3>tipo de gallos:</h3>
+        <ul>
+            <li>salchichon</li>
+            <li>PAPA</li>
+            <li>De queso</li>
+            <li>arracache</li>
+            <li>picadillo</li>
+        </ul>
+    </div>
+      <div>
+        <h2>CALDOSA</h2>
+        <p>Precio: 1500 colones</p>
+        <h3>Ingredientes:</h3>
+        <ul>
+            <li>picaritas</li>
+            <li>pescado</li>
+            <li>salsa</li>
+            <li>chiole(opcional)</li>
+        </ul>
+    </div>
+      <div>
+        <h2>PINTO</h2>
+        <p>Precio: 2100 colones</p>
+        <h3>Ingredientes:</h3>
+        <ul>
+            <li>arroz</li>
+            <li>frijoles</li>
+            <li>Queso turrialba</li>
+            <li>platano maduro</li>
+            <li>carne desmechada</li>
+        </ul>
+    </div>
+      <div>
+        <h2>BURRITO DE CARNE</h2>
+        <p>Precio: 1200 colones</p>
+        <h3>Ingredientes:</h3>
+        <ul>
+            <li>tortilla</li>
+            <li>Carne</li>
+            <li>Queso</li>
+            <li>Lechuga</li>
+            <li>Tomate</li>
+            <li>crema</li>
+            <li>guacamole</li>
+            <li>salsa de queso</li>
+        </ul>
+    </div>
+
+</body>
+</html>
