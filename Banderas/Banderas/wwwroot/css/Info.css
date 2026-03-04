@@ -1,0 +1,57 @@
+﻿body {
+    font-family: Arial;
+    background-color: #f4f6f9;
+}
+
+.titulo {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.info-container {
+    width: 80%;
+    margin: auto;
+}
+
+.pais {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* reutilizamos las banderas */
+
+.ucrania {
+    width: 200px;
+    height: 120px;
+    background: linear-gradient(to bottom, #0057b7 50%, #ffd700 50%);
+    margin-bottom: 10px;
+}
+
+.japon {
+    width: 200px;
+    height: 120px;
+    background: white;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+    .japon::after {
+        content: "";
+        width: 60px;
+        height: 60px;
+        background: red;
+        border-radius: 50%;
+        position: absolute;
+        top: 30px;
+        left: 70px;
+    }
+
+.alemania {
+    width: 200px;
+    height: 120px;
+    background: linear-gradient(to bottom, black 33%, red 33%, red 66%, gold 66%);
+    margin-bottom: 10px;
+}

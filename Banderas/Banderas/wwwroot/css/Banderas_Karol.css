@@ -1,0 +1,75 @@
+﻿body {
+    background-color: #eef2ff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titulo {
+    text-align: center;
+    color: #1e3a8a;
+    margin-top: 20px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    padding: 40px;
+}
+
+.bandera-card {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+    /* Tamaño general */
+    .bandera-card div {
+        width: 200px;
+        height: 120px;
+        margin: auto;
+        margin-bottom: 10px;
+    }
+
+/* 1️⃣ Ucrania */
+.ucrania {
+    background: linear-gradient(to bottom, #0057b7 50%, #ffd700 50%);
+}
+
+/* 2️⃣ Polonia */
+.polonia {
+    background: linear-gradient(to bottom, white 50%, #dc143c 50%);
+}
+
+/* 3️⃣ Alemania */
+.alemania {
+    background: linear-gradient(to bottom, black 33%, red 33%, red 66%, gold 66%);
+}
+
+/* 4️⃣ Japón */
+.japon {
+    background: white;
+    position: relative;
+}
+
+    .japon::after {
+        content: "";
+        width: 60px;
+        height: 60px;
+        background: red;
+        border-radius: 50%;
+        position: absolute;
+        top: 30px;
+        left: 70px;
+    }
+
+/* 5️⃣ Nigeria */
+.nigeria {
+    background: linear-gradient(to right, green 33%, white 33%, white 66%, green 66%);
+}
+
+/* 6️⃣ Francia */
+.francia {
+    background: linear-gradient(to right, #0055a4 33%, white 33%, white 66%, #ef4135 66%);
+}

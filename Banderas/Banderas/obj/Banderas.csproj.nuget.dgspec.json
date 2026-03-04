@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programacion_5\\Banderas\\Banderas\\Banderas.csproj": {}
+    "C:\\Paginas web\\Banderas\\Banderas\\Banderas.csproj": {}
   },
   "projects": {
-    "C:\\Programacion_5\\Banderas\\Banderas\\Banderas.csproj": {
+    "C:\\Paginas web\\Banderas\\Banderas\\Banderas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programacion_5\\Banderas\\Banderas\\Banderas.csproj",
+        "projectUniqueName": "C:\\Paginas web\\Banderas\\Banderas\\Banderas.csproj",
         "projectName": "Banderas",
-        "projectPath": "C:\\Programacion_5\\Banderas\\Banderas\\Banderas.csproj",
+        "projectPath": "C:\\Paginas web\\Banderas\\Banderas\\Banderas.csproj",
         "packagesPath": "C:\\Users\\karol\\.nuget\\packages\\",
-        "outputPath": "C:\\Programacion_5\\Banderas\\Banderas\\obj\\",
+        "outputPath": "C:\\Paginas web\\Banderas\\Banderas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

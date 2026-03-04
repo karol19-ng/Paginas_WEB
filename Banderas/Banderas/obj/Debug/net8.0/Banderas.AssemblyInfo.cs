@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Banderas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+330d04ac63b1a95927588bb73dd1059a35c2cc8f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Banderas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Banderas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

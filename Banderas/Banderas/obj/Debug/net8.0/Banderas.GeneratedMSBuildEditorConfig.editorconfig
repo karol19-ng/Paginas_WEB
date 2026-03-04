@@ -9,41 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Banderas
 build_property.RootNamespace = Banderas
-build_property.ProjectDir = C:\Programacion_5\Banderas\Banderas\
+build_property.ProjectDir = C:\Paginas web\Banderas\Banderas\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Programacion_5\Banderas\Banderas
+build_property.MSBuildProjectDirectory = C:\Paginas web\Banderas\Banderas
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Programacion_5/Banderas/Banderas/Pages/Error.cshtml]
+[C:/Paginas web/Banderas/Banderas/Pages/Banderas_Karol.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFuZGVyYXNfS2Fyb2wuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Paginas web/Banderas/Banderas/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Programacion_5/Banderas/Banderas/Pages/Index.cshtml]
+[C:/Paginas web/Banderas/Banderas/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Programacion_5/Banderas/Banderas/Pages/Privacy.cshtml]
+[C:/Paginas web/Banderas/Banderas/Pages/InfoPaises.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5mb1BhaXNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Paginas web/Banderas/Banderas/Pages/Karol_Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS2Fyb2xfSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Paginas web/Banderas/Banderas/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Programacion_5/Banderas/Banderas/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Paginas web/Banderas/Banderas/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Programacion_5/Banderas/Banderas/Pages/_ViewImports.cshtml]
+[C:/Paginas web/Banderas/Banderas/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Programacion_5/Banderas/Banderas/Pages/_ViewStart.cshtml]
+[C:/Paginas web/Banderas/Banderas/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Programacion_5/Banderas/Banderas/Pages/Shared/_Layout.cshtml]
+[C:/Paginas web/Banderas/Banderas/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-p6h4sfz12s

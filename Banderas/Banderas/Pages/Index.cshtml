@@ -1,10 +1,29 @@
 ﻿@page
-@model IndexModel
+
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "Página Principal";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<link rel="stylesheet" href="~/css/Principal.css" />
+
+<div class="header">
+    <h1>Trabajo en Grupo - Diseño de Banderas</h1>
+</div>
+
+<div class="container">
+
+    <div class="card">
+        <h2>Integrantes</h2>
+        <p>Karol Nuñez Gonzales</p>
+        <p>Sebastian Andrae Gonzalez</p>
+        <p>Andrey Calderon Vega</p>
+    </div>
+
+    <div class="card">
+        <h2>Seccion Karol</h2>
+
+        <a class="btn" asp-page="/Banderas_Karol">Ver Banderas</a>
+        <a class="btn" asp-page="/InfoPaises">Información de Países</a>
+    </div>
+
 </div>

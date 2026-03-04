@@ -6,4 +6,11 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\css\Banderas_Karol.css" />
+    <None Include="wwwroot\css\Info.css" />
+    <None Include="wwwroot\css\Karo.css" />
+    <None Include="wwwroot\css\Principal.css" />
+  </ItemGroup>
+
 </Project>
